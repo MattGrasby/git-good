@@ -1,2 +1,2 @@
 # git-good
-nah nah nah nah nah nah nah
+JDPCTF{gitting_good_at_checking_branch_history}
