@@ -1,2 +1,2 @@
-# gitting-jiggy-with-it
+# git-good
 nah nah nah nah nah nah nah
